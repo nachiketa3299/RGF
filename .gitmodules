@@ -1,0 +1,6 @@
+[submodule "lib/glfw"]
+	path = lib/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "lib/rds"]
+	path = lib/rds
+	url = https://github.com/nachiketa3299/RDS.git
